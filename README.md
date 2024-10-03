@@ -1,4 +1,4 @@
-# 📝 Google Docs Clone: Real-Time Collaboration at Its Finest
+# 📝 Google Docs: Real-Time Collaboration at Its Finest
 
 Welcome to the Google Docs clone! This project is a web-based document collaboration platform designed to empower users to create, edit, and collaborate on documents in real-time. Built using cutting-edge technologies like Next.js, Material UI, Tailwind CSS, Firebase, and Draft.js, this platform offers seamless user experiences with real-time editing and collaboration.
 
